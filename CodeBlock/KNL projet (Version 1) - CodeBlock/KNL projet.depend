@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1640318085 source:d:\onedrive - kid0707\kid - vivian\documents and projects in the university\insa hauts de france\licence 2\développement application\knl projet\gerer_les_donnes_tableau.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1640363685 source:d:\onedrive - kid0707\kid - vivian\documents and projects in the university\insa hauts de france\licence 2\développement application\knl projet (version 1) - codeblock\gerer_les_donnes_tableau.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
